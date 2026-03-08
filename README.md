@@ -9,7 +9,7 @@ The goal of this repository is to systematically record concepts, experiments, c
 ## Internship Details
 
 **Company:** Mantra Softech  
-**Role:** Intern  
+**Role:**C++ Intern  
 **Duration:** February / March – August  
 
 During this internship, I aim to deepen my understanding of systems programming, problem solving, and practical software development through consistent practice and documentation.
