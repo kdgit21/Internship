@@ -64,5 +64,5 @@ The emphasis is on **building strong fundamentals and developing disciplined eng
 
 ## Author
 
-Divyanshu Kumar  
+Kumar Divyanshu
 Intern – Mantra Softech
